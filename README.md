@@ -22,7 +22,7 @@ As a Business Analyst for an international retail chain (*Global Superstore*), m
 
 -----
 
-## 🛠️ Technical Stack & Skills
+## Technical Stack & Skills
 
 This project utilizes the full Excel analytical suite:
   **Data Preparation (ETL):** `XLOOKUP`, `VLOOKUP`, `Power Query`, `Text-to-Columns`.
